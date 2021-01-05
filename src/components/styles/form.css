@@ -1,0 +1,76 @@
+ 
+  .contentForm{
+      font-weight: bold;
+    }
+  
+  h3{
+    margin:0}
+  
+  .contentForm h3{
+    color:rgb(170, 170, 170);
+    font-size: 25px;
+    text-transform:capitalize;
+    text-align: center;
+  }
+  
+  .contentForm form{
+      
+    padding: 15px;
+  }
+  
+  label, input[type="email"],input[type="password"] {
+    display: block;
+    margin-bottom: 8px;
+    width: 100%; 
+  }
+  
+  input[type="email"],input[type="password"]{
+    padding: 8px;
+    box-sizing: border-box;
+    border-radius: 5px;
+    background-color: #aaa;
+    color: #1d1d1d;
+    font-weight: bold;
+    border: none;
+    padding-left: 40px
+  }
+  
+  .btn-control{
+    text-align: right;
+    margin-top: 20px;
+  }
+  
+  .btn-control .btn{
+    width: 50%;
+    display: inline;
+    border:none;
+    padding: 5px;
+    border-radius: 5px;
+    text-align: center;
+    font-size: 15px;
+    text-transform: uppercase;
+    text-decoration: none;
+    cursor: pointer;
+  }
+  
+  button{
+    transition: background 0.5s; 
+  }
+  button:hover{
+    background-color: purple;
+  }
+  .gris{
+    background-color: #ccc;
+    color: #fff;
+  }
+  
+  .yellowgreen{
+    background-color: yellowgreen;
+     color: #fff;}
+  
+  .contentForm i{
+    position: absolute;
+    font-size: 18px;
+    color: #1a237e;
+    padding:7px 10px;
+  }

@@ -2,7 +2,7 @@ import './styles/form.css'
 function Form() {
     return (
       <div className="contentForm ">
-        <h3> Formulario </h3>
+        <h3> INGRESAR </h3>
 
         <form >
             <label htmlFor="">Correo Electronico</label>

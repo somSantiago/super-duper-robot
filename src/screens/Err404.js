@@ -7,6 +7,7 @@ export default class Err404 extends React.Component {
       <div >
         <h3>Error 404 </h3>
         <h2>Page not Fund</h2>
+        <h2>Aqui debe de ir algo</h2>
       </div>
     );
   } 
